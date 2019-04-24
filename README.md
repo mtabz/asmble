@@ -1,3 +1,7 @@
+Original files from https://github.com/cretz/asmble
+
+To build as standalone project, checkout and rename build.gradle-standalone to build.gradle.
+
 # Asmble
 
 Asmble is a compiler that compiles [WebAssembly](http://webassembly.org/) code to JVM bytecode. It also contains
